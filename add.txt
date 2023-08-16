@@ -1,0 +1,6 @@
+go get github.com/ilyakaznacheev/cleanenv
+
+git init
+
+Edit configurations -> Environment:...
+CONFIG_PATH=/home/mike/_learn/Go/youtube_tuzov/l_25_rest_api/config/local.yaml
