@@ -1,2 +1,4 @@
 ### GoLand ###
 .idea/
+
+/storage/storage.db

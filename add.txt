@@ -12,4 +12,14 @@ go get "github.com/mattn/go-sqlite3"
 
 go get github.com/go-chi/chi/v5
 
+go get github.com/go-chi/render
 
+go get github.com/go-playground/validator/v10
+
+go get github.com/stretchr/testify/assert
+
+go get github.com/brianvoe/gofakeit/v6
+
+go get github.com/gavv/httpexpect/v2
+
+ssh-keygen -t rsa -b 4096 -C "comment"
