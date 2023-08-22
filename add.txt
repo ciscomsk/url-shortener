@@ -23,3 +23,6 @@ go get github.com/brianvoe/gofakeit/v6
 go get github.com/gavv/httpexpect/v2
 
 ssh-keygen -t rsa -b 4096 -C "comment"
+
+git tag v0.0.1
+git push origin v0.0.1
