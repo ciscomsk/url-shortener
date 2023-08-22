@@ -36,9 +36,6 @@ jobs:
         run: |
           go mod download
           pwd
-          ls -la
-          ls -la cmd
-          ls -la cmd/url-shortener
           go build -o url-shortener ./cmd/url-shortener
       - name: Deploy to VM
         run: |
